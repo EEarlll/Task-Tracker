@@ -1,5 +1,4 @@
 # Task Tracker
-# Task Tracker
 
 ## Overview
 Task Tracker is a .NET 8 CLI application designed to help you manage and track your tasks efficiently. It allows you to create, update, delete, and view tasks with ease.
